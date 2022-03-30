@@ -1,8 +1,8 @@
 <?php
 
-namespace Cornford\Googlmapper\Contracts;
+namespace FifyIO\Googlmapper\Contracts;
 
-use Cornford\Googlmapper\Exceptions\MapperArgumentException;
+use FifyIO\Googlmapper\Exceptions\MapperArgumentException;
 
 interface MappingBaseInterface
 {
